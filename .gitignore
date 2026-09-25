@@ -1,0 +1,35 @@
+# Unreal Engine
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+Build/
+
+# Visual Studio
+
+.vs/
+*.sln
+*.VC.db
+*.suo
+
+# Rider
+
+.idea/
+
+# Generated files
+
+*.dll
+*.exe
+*.pdb
+*.lib
+
+# Unreal generated
+
+*_BuiltData.uasset
+
+
+# Large assets
+
+Content/
